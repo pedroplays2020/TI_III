@@ -5,3 +5,10 @@ C:\Users\pedro\source\repos\TI_III2\TI_III2\obj\Debug\TI_III2.csproj.AssemblyRef
 C:\Users\pedro\source\repos\TI_III2\TI_III2\obj\Debug\TI_III2.csproj.CoreCompileInputs.cache
 C:\Users\pedro\source\repos\TI_III2\TI_III2\obj\Debug\TI_III2.exe
 C:\Users\pedro\source\repos\TI_III2\TI_III2\obj\Debug\TI_III2.pdb
+C:\Users\pedro\Desktop\escola\istec\Licenciatura\2ºano\TI III\TI_III2\TI_III2\obj\Debug\TI_III2.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\escola\istec\Licenciatura\2ºano\TI III\TI_III2\TI_III2\obj\Debug\TI_III2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\escola\istec\Licenciatura\2ºano\TI III\TI_III2\TI_III2\obj\Debug\TI_III2.exe
+C:\Users\pedro\Desktop\escola\istec\Licenciatura\2ºano\TI III\TI_III2\TI_III2\obj\Debug\TI_III2.pdb
+C:\Users\pedro\Desktop\escola\istec\Licenciatura\2ºano\TI III\TI_III2\TI_III2\bin\Debug\TI_III2.exe.config
+C:\Users\pedro\Desktop\escola\istec\Licenciatura\2ºano\TI III\TI_III2\TI_III2\bin\Debug\TI_III2.exe
+C:\Users\pedro\Desktop\escola\istec\Licenciatura\2ºano\TI III\TI_III2\TI_III2\bin\Debug\TI_III2.pdb

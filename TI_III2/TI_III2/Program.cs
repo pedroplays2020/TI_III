@@ -11,7 +11,8 @@ namespace TI_III2
         public static void Main(string[] args)
         {
             Console.Write(" salrio bruto do utilizador");
-            biblioteca.salario(int.Parse(Console.ReadLine());
+            biblioteca.salario(int.Parse(Console.ReadLine()));
+            Console.ReadLine();
             
 
         }

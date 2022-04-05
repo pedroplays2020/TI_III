@@ -8,13 +8,16 @@ namespace TI_III2
 {
     class biblioteca
     {
-        public static void salario(int sb, )
+        public static void salario(int sb )
         {
+           double  sl = 0;
+            double tx = 0;
+            double dsc = 0;
             
-
+            
             if (sb >= 0 && sb <= 1000)
             {
-                sl = sb - (sb * 0.5));
+                sl = sb - (sb * 0.5);
                 tx = 0.5;
                 dsc = sb * tx;
 
@@ -30,19 +33,22 @@ namespace TI_III2
                 
 
 
-            else if (sb > 1500 && sb < 2000)
+            else if (sb > 1500 && sb < 2000) { 
                 sl = sb - (sb * 0.23);
                 tx = 0.23;
-
+            }
 
             else if (sb < +2000)
+            {
                 sl = sb - (sb * 0.30);
                 tx = 0.30;
 
-            Console.WriteLine("salario bruto",sb);
-            Console.WriteLine("salario liquido",sl);
-            Console.WriteLine("desconto", dsc); 
-            Console.WriteLine("taxa",tx);
+            }
+
+            Console.WriteLine("salario bruto{0}",sb);
+            Console.WriteLine("salario liquido{0}", sl);
+            Console.WriteLine("desconto{0}", dsc); 
+            Console.WriteLine("taxa{0}", tx);
 
 
 
@@ -50,7 +56,7 @@ namespace TI_III2
 
 
         }
-        {        public static int menu()
+             public static int menu()
         {
             int opcao = 0;
             do
