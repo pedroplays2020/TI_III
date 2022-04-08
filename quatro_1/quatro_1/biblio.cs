@@ -6,13 +6,38 @@ using System.Threading.Tasks;
 
 namespace quatro_1
 {
+
+    public delegate int meudelegado(int a, int b);
+    public delegate void novodelegado(int a, int b, ref int rslt);
     class biblio
     {
+        public static int fazTudo(int a, int b, meudelegado func)
+        {
+            return func(a, b);
+        }
+        public static IEnumerable<int> magica(int limite, Predicate<int> predicado)
+        {
+            
+       
+                for (int i = 1; i <= limite; i++)
+                {
+                    if (predicado(i)) yield return i;
+                }
+        }
+           
 
-        //classe struture enum interface~~
-        //public delegate int 
 
+        public static bool Elprimo(int num)
+        {
+            if (num < 2) return false;
+            int quoc, div = 2, r;
+            do
+            {
+                quoc = num / div;
+                r = num % div++;
 
+            } while(r!)
+        }
         public static int multiplica(int x, int fator = 2)
         {
             return x * fator;
