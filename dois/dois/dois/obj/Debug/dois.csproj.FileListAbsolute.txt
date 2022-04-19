@@ -1,0 +1,7 @@
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\PL_TintIII_Quinta\dois\dois\dois\bin\Debug\dois.exe.config
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\PL_TintIII_Quinta\dois\dois\dois\bin\Debug\dois.exe
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\PL_TintIII_Quinta\dois\dois\dois\bin\Debug\dois.pdb
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\PL_TintIII_Quinta\dois\dois\dois\obj\Debug\dois.csprojAssemblyReference.cache
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\PL_TintIII_Quinta\dois\dois\dois\obj\Debug\dois.csproj.CoreCompileInputs.cache
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\PL_TintIII_Quinta\dois\dois\dois\obj\Debug\dois.exe
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\PL_TintIII_Quinta\dois\dois\dois\obj\Debug\dois.pdb

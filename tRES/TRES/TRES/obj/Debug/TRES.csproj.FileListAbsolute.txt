@@ -1,0 +1,7 @@
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\tRES\TRES\TRES\bin\Debug\TRES.exe.config
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\tRES\TRES\TRES\bin\Debug\TRES.exe
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\tRES\TRES\TRES\bin\Debug\TRES.pdb
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\tRES\TRES\TRES\obj\Debug\TRES.csprojAssemblyReference.cache
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\tRES\TRES\TRES\obj\Debug\TRES.csproj.CoreCompileInputs.cache
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\tRES\TRES\TRES\obj\Debug\TRES.exe
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\tRES\TRES\TRES\obj\Debug\TRES.pdb

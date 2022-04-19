@@ -1,0 +1,7 @@
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\Quatro\Quatro\Quatro\bin\Debug\Quatro.exe.config
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\Quatro\Quatro\Quatro\bin\Debug\Quatro.exe
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\Quatro\Quatro\Quatro\bin\Debug\Quatro.pdb
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\Quatro\Quatro\Quatro\obj\Debug\Quatro.csprojAssemblyReference.cache
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\Quatro\Quatro\Quatro\obj\Debug\Quatro.csproj.CoreCompileInputs.cache
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\Quatro\Quatro\Quatro\obj\Debug\Quatro.exe
+D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\Quatro\Quatro\Quatro\obj\Debug\Quatro.pdb
