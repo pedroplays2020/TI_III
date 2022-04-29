@@ -1,7 +1,6 @@
 D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\cinco\Cinco\Cinco\bin\Debug\Cinco.exe.config
 D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\cinco\Cinco\Cinco\bin\Debug\Cinco.exe
 D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\cinco\Cinco\Cinco\bin\Debug\Cinco.pdb
-D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\cinco\Cinco\Cinco\obj\Debug\Cinco.csprojAssemblyReference.cache
 D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\cinco\Cinco\Cinco\obj\Debug\Cinco.csproj.CoreCompileInputs.cache
 D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\cinco\Cinco\Cinco\obj\Debug\Cinco.exe
 D:\istec\Istec2021_2022_2Semestre\Aulas\TIntIII\M_TIntIII_B\cinco\Cinco\Cinco\obj\Debug\Cinco.pdb

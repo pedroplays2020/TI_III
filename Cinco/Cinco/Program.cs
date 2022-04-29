@@ -11,10 +11,7 @@ namespace Cinco
         static void Main(string[] args)
         {
             Viatura.partida();
-            Viatura ford = new Viatura("Ford","G40");
-
-            ford.Velocidade = 12;
-
+            Carro ford = new Carro("Ford","G40", new Motor("F50",1200,25));
             ford.mostrador();
 
             Console.ReadLine();
